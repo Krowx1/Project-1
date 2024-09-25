@@ -44,6 +44,7 @@
 		1BDB03902C99BA8600B497F5 /* Project 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project 1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BDB03942C99BA8600B497F5 /* Project_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1UITests.swift; sourceTree = "<group>"; };
 		1BDB03962C99BA8600B497F5 /* Project_1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project_1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1BF7BCBF2C9B141100535817 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 			children = (
 				1BDB03792C99BA8200B497F5 /* Project_1App.swift */,
 				1BDB037B2C99BA8200B497F5 /* ContentView.swift */,
+				1BF7BCBF2C9B141100535817 /* Header.h */,
 				1BDB037D2C99BA8600B497F5 /* Assets.xcassets */,
 				1BDB037F2C99BA8600B497F5 /* Preview Content */,
 			);
